@@ -1,1 +1,1 @@
-# les-classes-sous-classes_js
+# ES6 : Les Classes et Sous-classes
